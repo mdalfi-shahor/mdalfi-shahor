@@ -1,6 +1,6 @@
 ### Hi there 👋, MD Alfi Shahor
 #### I am a frontend developer from Bangladesh.
-![I am a frontend developer from Bangladesh.](https://raw.githubusercontent.com/mdalfishahor/TCP-In-1-25-2026/refs/heads/main/__pycache__/Untitled-1.png?token=GHSAT0AAAAAADS4VBM7DKPLFLOGQGRCJBLM2L6E5LA)
+![I am a frontend developer from Bangladesh.](https://i.ibb.co/PsqGPxjb/Untitled-1.png)
 
 I’m a Computer Science & Engineering (CSE) student with a strong interest in software development, web technologies, and problem-solving. I enjoy turning ideas into real, usable projects and learning how systems work under the hood.
 
