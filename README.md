@@ -1,24 +1,20 @@
-<h1 align="center">Hi 👋, I'm MD Alfi Shahor</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, MD Alfi Shahor
+#### I am a frontend developer from Bangladesh.
+![I am a frontend developer from Bangladesh.](https://raw.githubusercontent.com/mdalfishahor/TCP-In-1-25-2026/refs/heads/main/__pycache__/Untitled-1.png?token=GHSAT0AAAAAADS4VBM7DKPLFLOGQGRCJBLM2L6E5LA)
 
-- 🔭 I’m currently working on [Oxrin Shop](https://oxrin.shop/)
+I’m a Computer Science & Engineering (CSE) student with a strong interest in software development, web technologies, and problem-solving. I enjoy turning ideas into real, usable projects and learning how systems work under the hood.
 
-- 🌱 I’m currently learning **Proggraming**
+Skills: PYTHON / JS / HTML / CSS
 
-- 👨‍💻 All of my projects are available at [http://alfishahor.vercel.app/](http://alfishahor.vercel.app/)
+- 🔭 I’m currently working on Real-world web development projects. 
+- 🌱 I’m currently learning DSA and backend development. 
+- 👯 I’m looking to collaborate on Open-source and web projects. 
+- 🤔 I’m looking for help with Backend concepts and system design. 
+- 💬 Ask me about Web dev, WordPress, PHP 
+- 📫 How to reach me: Email / GitHub 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I learn best by building projects 
 
-- 📝 I regularly write articles on [https://mdalfishahor.blogspot.com/](https://mdalfishahor.blogspot.com/)
 
-- 💬 Ask me about **C, C++, Python**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdalfi-shahor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdalfi-shahor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alfishahor)  
 
-- 📫 How to reach me **alfishahor2005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/alfishahor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alfishahor" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdalfi-shahor&show_icons=true&locale=en" alt="mdalfi-shahor" /></p>
