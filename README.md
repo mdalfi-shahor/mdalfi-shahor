@@ -16,5 +16,5 @@ Skills: PYTHON / JS / HTML / CSS
 - ⚡ Fun fact: I learn best by building projects 
 
 
-[<img src='https://wallpapers.com/images/featured-full/github-logo-png-s8wb6yxlatsyp8s1.png' alt='github' height='40'>](https://github.com/mdalfi-shahor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdalfi-shahor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alfishahor)  
+[<img src='https://wallpapers.com/images/featured-full/github-logo-png-s8wb6yxlatsyp8s1.png' alt='github' height='40'>](https://github.com/mdalfi-shahor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdalfi-shahor/)  [<img src='https://i.ibb.co/WvcQ2nPN/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/alfishahor)  
 
