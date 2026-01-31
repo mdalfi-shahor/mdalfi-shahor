@@ -4,7 +4,7 @@
 
 I’m a Computer Science & Engineering (CSE) student with a strong interest in software development, web technologies, and problem-solving. I enjoy turning ideas into real, usable projects and learning how systems work under the hood.
 
-Skills: PYTHON / JS / HTML / CSS
+👨‍💻Skills: PYTHON / JS / HTML / CSS
 
 - 🔭 I’m currently working on Real-world web development projects. 
 - 🌱 I’m currently learning DSA and backend development. 
